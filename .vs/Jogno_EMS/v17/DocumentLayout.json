@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|c:\\users\\katrice may jogno\\desktop\\jognocs2_oop\\s03\\activity\\jogno_ems\\jogno_ems\\exportdgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\exportdgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\exportcellfromdgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\exportcellfromdgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\crud\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\crud\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\frmmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\frmmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\crud\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\crud\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\frmmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\frmmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\jogno_ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAA0234-2327-4C75-AD38-7F736A199058}|Jogno_EMS\\Jogno_EMS.csproj|solutionrelative:jogno_ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\LoginPage.cs",
+              "RelativeToolTip": "Jogno_EMS\\LoginPage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:48:40.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\LoginPage.cs [Design]",
+              "RelativeToolTip": "Jogno_EMS\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:40:17.886Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmAddEmployee.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\frmAddEmployee.cs",
+              "ToolTip": "C:\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmAddEmployee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmAddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:57:56.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportCellFromDgv.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\ExportCellFromDgv.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\ExportCellFromDgv.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\ExportCellFromDgv.cs",
+              "RelativeToolTip": "Jogno_EMS\\ExportCellFromDgv.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T01:21:07.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportDgv.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\ExportDgv.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\ExportDgv.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\ExportDgv.cs",
+              "RelativeToolTip": "Jogno_EMS\\ExportDgv.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T00:18:43.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmSettings.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\frmSettings.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmSettings.cs",
+              "RelativeToolTip": "Jogno_EMS\\frmSettings.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAIA4wFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T00:39:23.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmSettings.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\frmSettings.cs",
+              "ToolTip": "C:\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmSettings.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T00:24:23.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmMasterData.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmMasterData.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\frmMasterData.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmMasterData.cs",
+              "RelativeToolTip": "Jogno_EMS\\frmMasterData.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T02:33:43.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "connection.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\CRUD\\connection.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\CRUD\\connection.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\CRUD\\connection.cs",
+              "RelativeToolTip": "Jogno_EMS\\CRUD\\connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:31:45.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\Program.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\Program.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\Program.cs",
+              "RelativeToolTip": "Jogno_EMS\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:51:03.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\CRUD\\CRUD.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\CRUD\\CRUD.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\CRUD\\CRUD.cs",
+              "RelativeToolTip": "Jogno_EMS\\CRUD\\CRUD.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAwwAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:23:43.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmAddEmployee.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\frmAddEmployee.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmAddEmployee.cs",
+              "RelativeToolTip": "Jogno_EMS\\frmAddEmployee.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAnwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:36:05.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\Common.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\Common.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\Common.cs",
+              "RelativeToolTip": "Jogno_EMS\\Common.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T02:22:39.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\Form1.cs",
+              "RelativeToolTip": "Jogno_EMS\\Form1.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAnwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T00:57:17.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMasterData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmMasterData.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\frmMasterData.cs",
+              "ToolTip": "C:\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmMasterData.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\frmMasterData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:48:33.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Katrice May Jogno\\Desktop\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Jogno_EMS\\Form1.cs",
+              "ToolTip": "C:\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\JognoCS2_OOP\\S03\\Activity\\Jogno_EMS\\Jogno_EMS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T23:45:11.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

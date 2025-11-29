@@ -1,0 +1,29 @@
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\bin\Debug\Jogno_EMS.exe.config
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\bin\Debug\Jogno_EMS.exe
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\bin\Debug\Jogno_EMS.pdb
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.csproj.AssemblyReference.cache
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.Form1.resources
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.Properties.Resources.resources
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.csproj.GenerateResource.cache
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.csproj.CoreCompileInputs.cache
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.exe
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.pdb
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.frmMasterData.resources
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.frmAddEmployee.resources
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.LoginPage.resources
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\bin\Debug\Jogno_EMS.exe.config
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\bin\Debug\Jogno_EMS.exe
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\bin\Debug\Jogno_EMS.pdb
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.csproj.AssemblyReference.cache
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.exe.config
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.Form1.resources
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.frmAddEmployee.resources
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.frmMasterData.resources
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.frmSettings.resources
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.LoginPage.resources
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.Properties.Resources.resources
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.csproj.GenerateResource.cache
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.csproj.CoreCompileInputs.cache
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.exe
+C:\Users\Katrice May Jogno\Desktop\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.pdb
+C:\JognoCS2_OOP\S03\Activity\Jogno_EMS\Jogno_EMS\obj\Debug\Jogno_EMS.frmSettings.resources
